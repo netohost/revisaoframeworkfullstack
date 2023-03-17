@@ -1,0 +1,5 @@
+Requerimentos
+
+Flask
+Jsonify
+Requests 
